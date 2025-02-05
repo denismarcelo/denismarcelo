@@ -1,8 +1,8 @@
 # Olá, me chamo Denis!
 ## Seja bem-vindo(a) ao meu perfil do GitHub :blush:
 
-- :book: Sou estudante de programação da Alura;
-- :seedling: Começei a estudar programação este ano;
+- :book: Sou estudante de programação;
+- :seedling: Começei a estudar programação esse ano pela Alura;
 - :earth_americas: Moro em Marília/SP;
 - :deciduous_tree: Focado e dedicado em progredir.
 
