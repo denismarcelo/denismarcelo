@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, me chamo Denis!
+## Seja bem-vindo(a) ao meu perfil do GitHub :blush:
 
-<!--
-**denismarcelo/denismarcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :book: Sou estudante de programação da Alura;
+- :seedling: Começei a estudar programação este ano;
+- :earth_americas: Moro em Marília/SP;
+- :deciduous_tree: Focado e dedicado em progredir.
 
-Here are some ideas to get you started:
+## Ferramentas e Tecnologias:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/> <i class="devicon-javascript-plain colored"></i>
+
+Contatos:
+- Discord: dyna2511
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denismarcelo&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=denismarcelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+![cat-funny-cat](https://github.com/user-attachments/assets/c7b86c38-1c74-46fb-8e76-a2d73ca2c309)
